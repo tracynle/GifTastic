@@ -1,17 +1,3 @@
-// User input text into the form
-    // Clicks submit
-        // .on click event handler
-// Create button
-    // Text will append user's input as a button 
-        // Append text into "button-dump"
-// Input Gif:
-    // Append into "gif-dump" area
-    // Gif will appear below the form and h1 in a div 
-    // Gif will append after each one 
-// AJAX API section
-
-
-
 function animateOrStill() {
     // The attr jQuery method allows us to get or set the value of any attribute on our HTML element
     var state = $(this).attr("data-state");
