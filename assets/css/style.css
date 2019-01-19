@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #ECF0F1;
+}
+
+#title {
+    font-size: 50px;
+}
+
+.container {
+    font-family: 'Permanent Marker', cursive;
+    position: center;
+    margin-top: 25px;
+}
+
+.animal-input, #animal-text,
+#submit-button {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#button-dump {
+    border-radius: 12px;
+}
