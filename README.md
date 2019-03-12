@@ -1,6 +1,6 @@
 # GifTastic
 
-This project demonstrates my knowledge on Ajax calls while using [Giphy](www.giphy.com)'s API to render gifs onto the HTML page using jQuery and Javascript. 
+This project demonstrates my knowledge on Ajax calls while using [Giphy](https://giphy.com/)'s API to render gifs onto the HTML page using jQuery and Javascript. 
 
 ## Instructions
 1. Search up your favorite animal in the search bar 
