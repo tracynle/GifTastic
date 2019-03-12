@@ -12,7 +12,7 @@ When you submit your searches, they will always render below so you can go back 
 The gifs will show up to 15 searches and the ratings are displayed next to it. 
 
 ## Technology used
-HTML, CSS, Bootstrap, Javascript, jQuery, and [Giphy](www.giphy.com) [API](https://api.giphy.com/v1/gifs/search?q)
+HTML, CSS, Bootstrap, Javascript, jQuery, and [Giphy API](https://api.giphy.com/v1/gifs/search?q)
 
 ![GifTastic](assets/demo/gifTastic.gif)
 
