@@ -11,7 +11,7 @@ function animateOrStill() {
       $(this).attr("src", $(this).attr("data-still"));
       $(this).attr("data-state", "still");
     }
-}
+};
 
 // Submit button grabs the user text
 function createGifs(event){
@@ -21,7 +21,7 @@ function createGifs(event){
 
     event.preventDefault();
 
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + userInput + "&api_key=IdkeuTs2YRIxYEwZf4JFp3cOutCwirWR&limit=10&rating=g";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + userInput + "&api_key=IdkeuTs2YRIxYEwZf4JFp3cOutCwirWR&limit=15&rating=g";
 
     $.ajax ({
         url: queryURL,
@@ -58,8 +58,7 @@ function createGifs(event){
         }
     })
 
-
-}
+};
 
 $(document).ready(function() {
     // Executes when submit button is clicked
